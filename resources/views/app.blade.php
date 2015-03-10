@@ -67,11 +67,11 @@
 						</li>
 					@endif
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">{{ Lang::get("languages.".App::getLocale()) }} <span class="caret"></span></a>
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">{{ Lang::get("languages.language") }} <i class="glyphicon glyphicon-globe"></i><span class="caret"></span></a>
 						<ul class="dropdown-menu" role="menu">
 							@foreach (\App\Talen::all() as $taal)
-								@if(App::getLocale()!=$taal->taal)
-									<li><a href="{{URL::to($taal->taal.substr(Request::url(),strrpos(Request::url(),App::getLocale(),0)+2))}}">{{Lang::get("languages.".$taal->taal)}}</a></li>
+								@if(App::getLocale()!=$taal->language_short)
+									<li><a href="{{URL::to($taal->language_short.substr(Request::url(),strrpos(Request::url(),App::getLocale(),0)+2))}}">{{$taal->language_long}}</a></li>
 								@endif
 							@endforeach
 						</ul>

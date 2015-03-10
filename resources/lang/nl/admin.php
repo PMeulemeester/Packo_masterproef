@@ -7,5 +7,5 @@
  */
 
 return [
-    "members"   =>  "Memberslist",
+    "members"   =>  "Ledenlijst",
 ];

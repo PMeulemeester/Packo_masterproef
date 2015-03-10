@@ -9,7 +9,7 @@ use App\User;
 use App\UserTanks;
 use DebugBar\DebugBar;
 use Illuminate\Http\Request;
-use NoiseLabs\Bundle\NuSOAPBundle\NoiseLabsNuSOAPBundle;
+use Illuminate\Support\Facades\Lang;
 use Psy\Util\Json;
 
 class OculusViewerController extends Controller {
@@ -36,7 +36,7 @@ class OculusViewerController extends Controller {
 			if($rows->count()>0)
 				return $rows;
 			else{
-				return ["error"=>"Binary file for this date not found!"];
+				return ["error"=>\Lang::get("messages.file_not_found")];
 			}
 			//\Debugbar::stopMeasure('render');
 		}

@@ -69,10 +69,11 @@ function getNow(){
 function next_update_timer(){
     var uid=$("#oculustable").attr("userid");
     var tid=$("#oculustable").attr("tankid");
+    var locale=window.location.pathname.split('/')[3];
     $("#cdtimer").children('div').remove();
     $.ajax({
         type:"GET",
-        url:"http://localhost:8888/packo_masterproef/public/post_timer",
+        url:"http://localhost:8888/packo_masterproef/public/"+locale+"/post_timer",
         data:{userid:uid,tankid:tid},
         dataType:"text"
     })
@@ -100,11 +101,12 @@ function next_update_timer(){
 }
 function callData(now){
     $("#oculustable tr").remove();
+    var locale=window.location.pathname.split('/')[3];
     var uid=$("#oculustable").attr("userid");
     var tid=$("#oculustable").attr("tankid");
     $.ajax({
         type:"GET",
-        url:"http://localhost:8888/packo_masterproef/public/post",
+        url:"http://localhost:8888/packo_masterproef/public/"+locale+"/post",
         data:{filename:getFilename(now),userid:uid,tankid:tid},
         dataType:"json"
     })

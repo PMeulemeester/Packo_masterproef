@@ -16,7 +16,8 @@ class CreateLanguagesTable extends Migration {
 		{
 			$table->engine = "InnoDB";
 			$table->increments('id');
-			$table->string('taal')->unique();
+			$table->string('language_short')->unique();
+			$table->string('language_long')->unique();
 		});
 	}
 

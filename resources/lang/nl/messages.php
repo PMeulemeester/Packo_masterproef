@@ -17,5 +17,6 @@ return [
     "reset_subject"=>"Uw wachtwoord herstel link",
     "uploaderror"=>"Er zijn problemen met uw invoergegevens.",
     "extension"=>"De extensie is niet correct.",
-    "tanks" =>"Melkkoeltanks"
+    "tanks" =>"Melkkoeltanks",
+    "file_not_found"=>"Binaire file voor deze datum niet gevonden!"
 ];

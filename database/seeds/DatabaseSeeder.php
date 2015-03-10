@@ -22,8 +22,8 @@ class DatabaseSeeder extends Seeder {
 		$this->call('ActiveElectricComponentsTableSeeder');
 		$this->call('EventProcessTableSeeder');
 		$this->call('ErrorsTableSeeder');
-		$this->call('TankSortsTableSeeder');*/
-		//$this->call('UserTanksTableSeeder');
+		$this->call('TankSortsTableSeeder');
+		$this->call('UserTanksTableSeeder');*/
 	}
 
 }
@@ -324,9 +324,9 @@ class LanguageTableSeeder extends Seeder {
 		DB::table('languages')->delete();
 
 		DB::table('languages')->insert(array(
-			array('taal'=>'nl'),
-			array('taal'=>'en'),
-			array('taal'=>'fr')
+			array('language_short'=>'nl','language_long'=>'Nederlands'),
+			array('language_short'=>'en','language_long'=>'English'),
+			array('language_short'=>'fr','language_long'=>'Francais')
 		));
 	}
 

@@ -16,7 +16,4 @@ class Talen extends Model{
 
     public  $timestamps=false;
 
-    public static function geefTalen(){
-        return Talen::all();
-    }
 }

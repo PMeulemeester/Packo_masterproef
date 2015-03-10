@@ -17,5 +17,6 @@ return [
     "reset_subject"=>"Your Password Reset Link",
     "uploaderror"=>"There are problems with your input values.",
     "extension"=>"The extension is not correct.",
-    "tanks" =>"Tanks"
+    "tanks" =>"Tanks",
+    "file_not_found"=>"Binary file for this date not found!"
 ];

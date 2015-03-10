@@ -11,6 +11,7 @@
 |
 */
 
+
 $languages = array('nl','fr','en');
 $locale = Request::segment(1);
 if(in_array($locale, $languages)){

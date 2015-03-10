@@ -21,7 +21,7 @@ class Binary_parse{
         $arr=array();
         if(file_exists($str)) {
             $file = fopen($str, "rb");
-           // $logfile=fopen(storage_path()."/iControl/".$name.'/'.$tank.'/'.substr($filename,0,4).'/logfile.txt','w');
+            //$logfile=fopen(storage_path()."/iControl/".$name.'/'.$tank.'/'.substr($filename,0,4).'/logfile.txt','w');
             if(flock($file,LOCK_EX)) {
                 $backup = null;
                 while (filesize($str) > ftell($file)) {
@@ -29,19 +29,20 @@ class Binary_parse{
                     $b = new Binary_file\Binary_file_row();
 
                     $b->date = $this->create_date($str,$file);
-                   // fwrite($logfile,$b->date."\n");
+                    //fwrite($logfile,$b->date."\n");
                     $type = $this->getTypeAndLength($str,$file);
-                   // fwrite($logfile,$type->type."\n".$type->type_id."\n");
+                    //fwrite($logfile,$type->type."\n".$type->type_id."\n");
                     $b->type = $type->type;
                     if($type->type_id==99){
                         fseek($file,ftell($file)+8);
                     }
-                    elseif ($type->type_id == 0 || $type->type_id == 7) {
+                    elseif ($type->type_id == 0 || $type->type_id == 7 || $type->type_id==10) {
                         $b->temp = $this->getTemperature($str,$file) . "°C  ";
                         $b->active_process = $this->getActiveProcess($str,$file);
                         $b->active_electric_component = $this->getActiveElectricComponent($str,$file);
-                        if ($type->type_id == 7) {
-                            $b->temp_difference = $this->getTemperatureDifference($str,$file) . "°C  ";
+                        if ($type->type_id == 7 || $type->type_id==10) {
+                            $this->getTemperatureDifference($str,$file);
+                            $b->temp_difference = 0 ."°C  ";
                         }
                     } elseif ($type->type_id == 1 || $type->type_id == 6) {
                         $b->event_process = $this->getEventProcess($str,$file);

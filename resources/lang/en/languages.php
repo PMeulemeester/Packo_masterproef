@@ -7,7 +7,5 @@
  */
 return [
 
-    "nl" => "Dutch",
-    "en" => "English",
-    "fr" => "French"
+    "language"=>"language"
 ];
