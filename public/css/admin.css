@@ -1,0 +1,11 @@
+#members{
+    max-height: 600px;
+    overflow: auto;
+}
+
+.clickable{
+    cursor: pointer;
+}
+.tankbody img{
+
+}

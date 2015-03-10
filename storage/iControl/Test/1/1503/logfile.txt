@@ -1,0 +1,3204 @@
+date : c7d2a8cce0000000
+04-03 10:57
+unknown
+99
+date : 8bd2a8cce0000000
+04-03 10:58
+unknown
+99
+date : 4fd2a8cce0000000
+04-03 10:59
+unknown
+99
+date : 03e2a8cce0000000
+04-03 11:00
+unknown
+99
+date : c6e2a8cce0000000
+04-03 11:01
+unknown
+99
+date : 8ae2a8cce0000000
+04-03 11:02
+unknown
+99
+date : 4ee2a8cce0000000
+04-03 11:03
+unknown
+99
+date : 02f2a8cce0000000
+04-03 11:04
+unknown
+99
+date : c5f2a8cce0000000
+04-03 11:05
+unknown
+99
+date : 89f2a8cce0000000
+04-03 11:06
+unknown
+99
+date : 4df2a8cce0000000
+04-03 11:07
+unknown
+99
+date : 0103a8cce0000000
+04-03 11:08
+unknown
+99
+date : d403a8cce0000000
+04-03 11:09
+unknown
+99
+date : 9803a8cce0000000
+04-03 11:10
+unknown
+99
+date : 5c03a8cce0000000
+04-03 11:11
+unknown
+99
+date : 1013a8cce0000000
+04-03 11:12
+unknown
+99
+date : d313a8cce0000000
+04-03 11:13
+unknown
+99
+date : 9713a8cce0000000
+04-03 11:14
+unknown
+99
+date : 5b13a8cce0000000
+04-03 11:15
+unknown
+99
+date : 1f13a8cce0000000
+04-03 11:16
+unknown
+99
+date : d223a8cce0000000
+04-03 11:17
+unknown
+99
+date : 9623a8cce0000000
+04-03 11:18
+unknown
+99
+date : 5a23a8cce0000000
+04-03 11:19
+unknown
+99
+date : 1e23a8cce0000000
+04-03 11:20
+unknown
+99
+date : d133a8cce0000000
+04-03 11:21
+unknown
+99
+date : 9533a8cce0000000
+04-03 11:22
+unknown
+99
+date : 5933a8cce0000000
+04-03 11:23
+unknown
+99
+date : 1d33a8cce0000000
+04-03 11:24
+unknown
+99
+date : d043a8cce0000000
+04-03 11:25
+unknown
+99
+date : 9443a8cce0000000
+04-03 11:26
+unknown
+99
+date : 5843a8cce0000000
+04-03 11:27
+unknown
+99
+date : 2c43a8cce0000000
+04-03 11:28
+unknown
+99
+date : ef43a8cce0000000
+04-03 11:29
+unknown
+99
+date : a353a8cce0000000
+04-03 11:30
+unknown
+99
+date : 6753a8cce0000000
+04-03 11:31
+unknown
+99
+date : 2b53a8cce0000000
+04-03 11:32
+unknown
+99
+date : ee53a8cce0000000
+04-03 11:33
+unknown
+99
+date : a263a8cce0000000
+04-03 11:34
+unknown
+99
+date : 6663a8cce0000000
+04-03 11:35
+unknown
+99
+date : 2a63a8cce0000000
+04-03 11:36
+unknown
+99
+date : ed63a8cce0000000
+04-03 11:37
+unknown
+99
+date : a173a8cce0000000
+04-03 11:38
+unknown
+99
+date : 6573a8cce0000000
+04-03 11:39
+unknown
+99
+date : 2973a8cce0000000
+04-03 11:40
+unknown
+99
+date : ec73a8cce0000000
+04-03 11:41
+unknown
+99
+date : a083a8cce0000000
+04-03 11:42
+unknown
+99
+date : 6483a8cce0000000
+04-03 11:43
+unknown
+99
+date : 2883a8cce0000000
+04-03 11:44
+unknown
+99
+date : eb83a8cce0000000
+04-03 11:45
+unknown
+99
+date : af83a8cce0000000
+04-03 11:46
+unknown
+99
+date : 6393a8cce0000000
+04-03 11:47
+unknown
+99
+date : 9f93a8cce0000000
+04-03 11:50
+Acknowledge Error
+5
+date : a2a3a8cce0000000
+04-03 11:51
+unknown
+99
+date : a2a3a8cce0000000
+04-03 11:51
+Volume logging
+9
+date : 56a3a8cce0000000
+04-03 11:52
+unknown
+99
+date : 2aa3a8cce0000000
+04-03 11:53
+unknown
+99
+date : eda3a8cce0000000
+04-03 11:54
+unknown
+99
+date : a1b3a8cce0000000
+04-03 11:55
+unknown
+99
+date : 65b3a8cce0000000
+04-03 11:56
+unknown
+99
+date : 29b3a8cce0000000
+04-03 11:57
+unknown
+99
+date : ecb3a8cce0000000
+04-03 11:58
+unknown
+99
+date : a0c3a8cce0000000
+04-03 11:59
+unknown
+99
+date : 64c3a8cce0000000
+04-03 12:00
+unknown
+99
+date : 28c3a8cce0000000
+04-03 12:01
+unknown
+99
+date : ebc3a8cce0000000
+04-03 12:02
+unknown
+99
+date : afc3a8cce0000000
+04-03 12:03
+unknown
+99
+date : 63d3a8cce0000000
+04-03 12:04
+unknown
+99
+date : 27d3a8cce0000000
+04-03 12:05
+unknown
+99
+date : ead3a8cce0000000
+04-03 12:06
+unknown
+99
+date : ead3a8cce0000000
+04-03 12:06
+Volume logging
+9
+date : bed3a8cce0000000
+04-03 12:07
+unknown
+99
+date : 62e3a8cce0000000
+04-03 12:08
+unknown
+99
+date : 26e3a8cce0000000
+04-03 12:09
+unknown
+99
+date : f9e3a8cce0000000
+04-03 12:10
+unknown
+99
+date : bde3a8cce0000000
+04-03 12:11
+unknown
+99
+date : 71f3a8cce0000000
+04-03 12:12
+unknown
+99
+date : 35f3a8cce0000000
+04-03 12:13
+unknown
+99
+date : f8f3a8cce0000000
+04-03 12:14
+unknown
+99
+date : bcf3a8cce0000000
+04-03 12:15
+unknown
+99
+date : 7004a8cce0000000
+04-03 12:16
+unknown
+99
+date : 3404a8cce0000000
+04-03 12:17
+unknown
+99
+date : f704a8cce0000000
+04-03 12:18
+unknown
+99
+date : bb04a8cce0000000
+04-03 12:19
+unknown
+99
+date : 7f04a8cce0000000
+04-03 12:20
+unknown
+99
+date : 3314a8cce0000000
+04-03 12:21
+unknown
+99
+date : 3314a8cce0000000
+04-03 12:21
+Volume logging
+9
+date : f614a8cce0000000
+04-03 12:22
+unknown
+99
+date : ca14a8cce0000000
+04-03 12:23
+unknown
+99
+date : 7e14a8cce0000000
+04-03 12:24
+unknown
+99
+date : 4224a8cce0000000
+04-03 12:25
+unknown
+99
+date : 0624a8cce0000000
+04-03 12:26
+unknown
+99
+date : c924a8cce0000000
+04-03 12:27
+unknown
+99
+date : 8d24a8cce0000000
+04-03 12:28
+unknown
+99
+date : 4134a8cce0000000
+04-03 12:29
+unknown
+99
+date : 0534a8cce0000000
+04-03 12:30
+unknown
+99
+date : c834a8cce0000000
+04-03 12:31
+unknown
+99
+date : 8c34a8cce0000000
+04-03 12:32
+unknown
+99
+date : 4044a8cce0000000
+04-03 12:33
+unknown
+99
+date : 0444a8cce0000000
+04-03 12:34
+unknown
+99
+date : c744a8cce0000000
+04-03 12:35
+unknown
+99
+date : 8b44a8cce0000000
+04-03 12:36
+unknown
+99
+date : 8b44a8cce0000000
+04-03 12:36
+Volume logging
+9
+date : 4f44a8cce0000000
+04-03 12:37
+unknown
+99
+date : 0354a8cce0000000
+04-03 12:38
+unknown
+99
+date : c654a8cce0000000
+04-03 12:39
+unknown
+99
+date : 8a54a8cce0000000
+04-03 12:40
+unknown
+99
+date : 4e54a8cce0000000
+04-03 12:41
+unknown
+99
+date : 0264a8cce0000000
+04-03 12:42
+unknown
+99
+date : c564a8cce0000000
+04-03 12:43
+unknown
+99
+date : 8964a8cce0000000
+04-03 12:44
+unknown
+99
+date : 4d64a8cce0000000
+04-03 12:45
+unknown
+99
+date : 0174a8cce0000000
+04-03 12:46
+unknown
+99
+date : d474a8cce0000000
+04-03 12:47
+unknown
+99
+date : 9874a8cce0000000
+04-03 12:48
+unknown
+99
+date : 4c74a8cce0000000
+04-03 12:49
+unknown
+99
+date : 1084a8cce0000000
+04-03 12:50
+unknown
+99
+date : d384a8cce0000000
+04-03 12:51
+unknown
+99
+date : d384a8cce0000000
+04-03 12:51
+Volume logging
+9
+date : 9784a8cce0000000
+04-03 12:52
+unknown
+99
+date : 5b84a8cce0000000
+04-03 12:53
+unknown
+99
+date : 1f84a8cce0000000
+04-03 12:54
+unknown
+99
+date : d294a8cce0000000
+04-03 12:55
+unknown
+99
+date : 9694a8cce0000000
+04-03 12:56
+unknown
+99
+date : 5a94a8cce0000000
+04-03 12:57
+unknown
+99
+date : 1e94a8cce0000000
+04-03 12:58
+unknown
+99
+date : d1a4a8cce0000000
+04-03 12:59
+unknown
+99
+date : 95a4a8cce0000000
+04-03 13:00
+unknown
+99
+date : 59a4a8cce0000000
+04-03 13:01
+unknown
+99
+date : 2da4a8cce0000000
+04-03 13:02
+unknown
+99
+date : e0b4a8cce0000000
+04-03 13:03
+unknown
+99
+date : a4b4a8cce0000000
+04-03 13:04
+unknown
+99
+date : 68b4a8cce0000000
+04-03 13:05
+unknown
+99
+date : 2cb4a8cce0000000
+04-03 13:06
+unknown
+99
+date : 2cb4a8cce0000000
+04-03 13:06
+Volume logging
+9
+date : efb4a8cce0000000
+04-03 13:07
+unknown
+99
+date : a3c4a8cce0000000
+04-03 13:08
+unknown
+99
+date : 67c4a8cce0000000
+04-03 13:09
+unknown
+99
+date : 2bc4a8cce0000000
+04-03 13:10
+unknown
+99
+date : eec4a8cce0000000
+04-03 13:11
+unknown
+99
+date : a2d4a8cce0000000
+04-03 13:12
+unknown
+99
+date : 66d4a8cce0000000
+04-03 13:13
+unknown
+99
+date : 2ad4a8cce0000000
+04-03 13:14
+unknown
+99
+date : edd4a8cce0000000
+04-03 13:15
+unknown
+99
+date : a1e4a8cce0000000
+04-03 13:16
+unknown
+99
+date : 65e4a8cce0000000
+04-03 13:17
+unknown
+99
+date : 29e4a8cce0000000
+04-03 13:18
+unknown
+99
+date : ece4a8cce0000000
+04-03 13:19
+unknown
+99
+date : a0f4a8cce0000000
+04-03 13:20
+unknown
+99
+date : 64f4a8cce0000000
+04-03 13:21
+unknown
+99
+date : 64f4a8cce0000000
+04-03 13:21
+Volume logging
+9
+date : 28f4a8cce0000000
+04-03 13:22
+unknown
+99
+date : ebf4a8cce0000000
+04-03 13:23
+unknown
+99
+date : aff4a8cce0000000
+04-03 13:24
+unknown
+99
+date : 6305a8cce0000000
+04-03 13:25
+unknown
+99
+date : 2705a8cce0000000
+04-03 13:26
+unknown
+99
+date : ea05a8cce0000000
+04-03 13:27
+unknown
+99
+date : ae05a8cce0000000
+04-03 13:28
+unknown
+99
+date : 6215a8cce0000000
+04-03 13:29
+unknown
+99
+date : 2615a8cce0000000
+04-03 13:30
+unknown
+99
+date : e915a8cce0000000
+04-03 13:31
+unknown
+99
+date : ad15a8cce0000000
+04-03 13:32
+unknown
+99
+date : 6125a8cce0000000
+04-03 13:33
+unknown
+99
+date : 2525a8cce0000000
+04-03 13:34
+unknown
+99
+date : e825a8cce0000000
+04-03 13:35
+unknown
+99
+date : ac25a8cce0000000
+04-03 13:36
+unknown
+99
+date : 6035a8cce0000000
+04-03 13:37
+unknown
+99
+date : 2435a8cce0000000
+04-03 13:38
+unknown
+99
+date : e735a8cce0000000
+04-03 13:39
+unknown
+99
+date : ab35a8cce0000000
+04-03 13:40
+unknown
+99
+date : 6f35a8cce0000000
+04-03 13:41
+unknown
+99
+date : 2155a8cce0000000
+04-03 13:45
+Rise Error
+4
+date : 2155a8cce0000000
+04-03 13:45
+Acknowledge Error
+5
+date : 3255a8cce0000000
+04-03 13:46
+Err confirmed by user
+8
+date : 5455a8cce0000000
+04-03 13:46
+unknown
+99
+date : 1855a8cce0000000
+04-03 13:47
+unknown
+99
+date : db55a8cce0000000
+04-03 13:48
+unknown
+99
+date : 9f55a8cce0000000
+04-03 13:49
+unknown
+99
+date : 4275a8cce0000000
+04-03 13:54
+unknown
+99
+date : 4275a8cce0000000
+04-03 13:54
+Volume logging
+9
+date : 0675a8cce0000000
+04-03 13:55
+unknown
+99
+date : c975a8cce0000000
+04-03 13:56
+unknown
+99
+date : 8d75a8cce0000000
+04-03 13:57
+unknown
+99
+date : 4185a8cce0000000
+04-03 13:58
+unknown
+99
+date : 0585a8cce0000000
+04-03 13:59
+unknown
+99
+date : c885a8cce0000000
+04-03 14:00
+unknown
+99
+date : 8c85a8cce0000000
+04-03 14:01
+unknown
+99
+date : 4095a8cce0000000
+04-03 14:02
+unknown
+99
+date : 0495a8cce0000000
+04-03 14:03
+unknown
+99
+date : c795a8cce0000000
+04-03 14:04
+unknown
+99
+date : 8b95a8cce0000000
+04-03 14:05
+unknown
+99
+date : 4f95a8cce0000000
+04-03 14:06
+unknown
+99
+date : 03a5a8cce0000000
+04-03 14:07
+unknown
+99
+date : c6a5a8cce0000000
+04-03 14:08
+unknown
+99
+date : 8aa5a8cce0000000
+04-03 14:09
+unknown
+99
+date : 5ea5a8cce0000000
+04-03 14:10
+unknown
+99
+date : 12b5a8cce0000000
+04-03 14:11
+unknown
+99
+date : d5b5a8cce0000000
+04-03 14:12
+unknown
+99
+date : 89b5a8cce0000000
+04-03 14:13
+unknown
+99
+date : 5db5a8cce0000000
+04-03 14:14
+unknown
+99
+date : 11c5a8cce0000000
+04-03 14:15
+unknown
+99
+date : d4c5a8cce0000000
+04-03 14:16
+unknown
+99
+date : 98c5a8cce0000000
+04-03 14:17
+unknown
+99
+date : 5cc5a8cce0000000
+04-03 14:18
+unknown
+99
+date : 10d5a8cce0000000
+04-03 14:19
+unknown
+99
+date : d3d5a8cce0000000
+04-03 14:20
+unknown
+99
+date : 97d5a8cce0000000
+04-03 14:21
+unknown
+99
+date : 5bd5a8cce0000000
+04-03 14:22
+unknown
+99
+date : 1fd5a8cce0000000
+04-03 14:23
+unknown
+99
+date : d2e5a8cce0000000
+04-03 14:24
+unknown
+99
+date : 96e5a8cce0000000
+04-03 14:25
+unknown
+99
+date : 5ae5a8cce0000000
+04-03 14:26
+unknown
+99
+date : 1ee5a8cce0000000
+04-03 14:27
+unknown
+99
+date : e1f5a8cce0000000
+04-03 14:28
+unknown
+99
+date : a5f5a8cce0000000
+04-03 14:29
+unknown
+99
+date : 69f5a8cce0000000
+04-03 14:30
+unknown
+99
+date : 2df5a8cce0000000
+04-03 14:31
+unknown
+99
+date : e006a8cce0000000
+04-03 14:32
+unknown
+99
+date : a406a8cce0000000
+04-03 14:33
+unknown
+99
+date : 6806a8cce0000000
+04-03 14:34
+unknown
+99
+date : 2c06a8cce0000000
+04-03 14:35
+unknown
+99
+date : ef06a8cce0000000
+04-03 14:36
+unknown
+99
+date : a316a8cce0000000
+04-03 14:37
+unknown
+99
+date : 6716a8cce0000000
+04-03 14:38
+unknown
+99
+date : 2b16a8cce0000000
+04-03 14:39
+unknown
+99
+date : ee16a8cce0000000
+04-03 14:40
+unknown
+99
+date : a226a8cce0000000
+04-03 14:41
+unknown
+99
+date : 6626a8cce0000000
+04-03 14:42
+unknown
+99
+date : 2a26a8cce0000000
+04-03 14:43
+unknown
+99
+date : ed26a8cce0000000
+04-03 14:44
+unknown
+99
+date : b136a8cce0000000
+04-03 14:45
+unknown
+99
+date : 7536a8cce0000000
+04-03 14:46
+unknown
+99
+date : 3936a8cce0000000
+04-03 14:47
+unknown
+99
+date : fc36a8cce0000000
+04-03 14:48
+unknown
+99
+date : b046a8cce0000000
+04-03 14:49
+unknown
+99
+date : 7446a8cce0000000
+04-03 14:50
+unknown
+99
+date : 3846a8cce0000000
+04-03 14:51
+unknown
+99
+date : fb46a8cce0000000
+04-03 14:52
+unknown
+99
+date : bf46a8cce0000000
+04-03 14:53
+unknown
+99
+date : 7356a8cce0000000
+04-03 14:54
+unknown
+99
+date : 3756a8cce0000000
+04-03 14:55
+unknown
+99
+date : fa56a8cce0000000
+04-03 14:56
+unknown
+99
+date : be56a8cce0000000
+04-03 14:57
+unknown
+99
+date : 7266a8cce0000000
+04-03 14:58
+unknown
+99
+date : 4666a8cce0000000
+04-03 14:59
+unknown
+99
+date : f966a8cce0000000
+04-03 15:00
+unknown
+99
+date : bd66a8cce0000000
+04-03 15:01
+unknown
+99
+date : 7176a8cce0000000
+04-03 15:02
+unknown
+99
+date : 3576a8cce0000000
+04-03 15:03
+unknown
+99
+date : 0976a8cce0000000
+04-03 15:04
+unknown
+99
+date : cc76a8cce0000000
+04-03 15:05
+unknown
+99
+date : 7086a8cce0000000
+04-03 15:06
+unknown
+99
+date : 3486a8cce0000000
+04-03 15:07
+unknown
+99
+date : 0886a8cce0000000
+04-03 15:08
+unknown
+99
+date : cb86a8cce0000000
+04-03 15:09
+unknown
+99
+date : 8f86a8cce0000000
+04-03 15:10
+unknown
+99
+date : 4396a8cce0000000
+04-03 15:11
+unknown
+99
+date : 0796a8cce0000000
+04-03 15:12
+unknown
+99
+date : ca96a8cce0000000
+04-03 15:13
+unknown
+99
+date : 8e96a8cce0000000
+04-03 15:14
+unknown
+99
+date : 42a6a8cce0000000
+04-03 15:15
+unknown
+99
+date : 06a6a8cce0000000
+04-03 15:16
+unknown
+99
+date : c9a6a8cce0000000
+04-03 15:17
+unknown
+99
+date : 8da6a8cce0000000
+04-03 15:18
+unknown
+99
+date : 41b6a8cce0000000
+04-03 15:19
+unknown
+99
+date : 05b6a8cce0000000
+04-03 15:20
+unknown
+99
+date : c8b6a8cce0000000
+04-03 15:21
+unknown
+99
+date : 8cb6a8cce0000000
+04-03 15:22
+unknown
+99
+date : 40c6a8cce0000000
+04-03 15:23
+unknown
+99
+date : 14c6a8cce0000000
+04-03 15:24
+unknown
+99
+date : c7c6a8cce0000000
+04-03 15:25
+unknown
+99
+date : 9bc6a8cce0000000
+04-03 15:26
+unknown
+99
+date : 5fc6a8cce0000000
+04-03 15:27
+unknown
+99
+date : 13d6a8cce0000000
+04-03 15:28
+unknown
+99
+date : d6d6a8cce0000000
+04-03 15:29
+unknown
+99
+date : 9ad6a8cce0000000
+04-03 15:30
+unknown
+99
+date : 5ed6a8cce0000000
+04-03 15:31
+unknown
+99
+date : 12e6a8cce0000000
+04-03 15:32
+unknown
+99
+date : d5e6a8cce0000000
+04-03 15:33
+unknown
+99
+date : 99e6a8cce0000000
+04-03 15:34
+unknown
+99
+date : 5de6a8cce0000000
+04-03 15:35
+unknown
+99
+date : 06f6a8cce0000000
+04-03 15:38
+unknown
+99
+date : c9f6a8cce0000000
+04-03 15:39
+unknown
+99
+date : 8df6a8cce0000000
+04-03 15:40
+unknown
+99
+date : 4107a8cce0000000
+04-03 15:41
+unknown
+99
+date : 0507a8cce0000000
+04-03 15:42
+unknown
+99
+date : c807a8cce0000000
+04-03 15:43
+unknown
+99
+date : 8c07a8cce0000000
+04-03 15:44
+unknown
+99
+date : 4017a8cce0000000
+04-03 15:45
+unknown
+99
+date : 0417a8cce0000000
+04-03 15:46
+unknown
+99
+date : c717a8cce0000000
+04-03 15:47
+unknown
+99
+date : 8b17a8cce0000000
+04-03 15:48
+unknown
+99
+date : 4f17a8cce0000000
+04-03 15:49
+unknown
+99
+date : 0327a8cce0000000
+04-03 15:50
+unknown
+99
+date : c627a8cce0000000
+04-03 15:51
+unknown
+99
+date : 9a27a8cce0000000
+04-03 15:52
+unknown
+99
+date : 4e27a8cce0000000
+04-03 15:53
+unknown
+99
+date : 0237a8cce0000000
+04-03 15:54
+unknown
+99
+date : d537a8cce0000000
+04-03 15:55
+unknown
+99
+date : 9937a8cce0000000
+04-03 15:56
+unknown
+99
+date : 9c37a8cce0000000
+04-03 15:56
+EventProcess
+1
+date : bc37a8cce0000000
+04-03 15:56
+EventProcess
+1
+date : 5d37a8cce0000000
+04-03 15:57
+unknown
+99
+date : 1147a8cce0000000
+04-03 15:58
+unknown
+99
+date : 4447a8cce0000000
+04-03 15:59
+Rise Error
+4
+date : 8447a8cce0000000
+04-03 15:59
+Err confirmed by user
+8
+date : d447a8cce0000000
+04-03 15:59
+unknown
+99
+date : 9547a8cce0000000
+04-03 15:59
+EventProcess
+1
+date : 9547a8cce0000000
+04-03 15:59
+Acknowledge Error
+5
+date : b547a8cce0000000
+04-03 15:59
+Event with temperature logging
+6
+date : e547a8cce0000000
+04-03 15:59
+Event with temperature logging
+6
+date : e547a8cce0000000
+04-03 15:59
+Event with temperature logging
+6
+date : a647a8cce0000000
+04-03 15:59
+Event with temperature logging
+6
+date : a647a8cce0000000
+04-03 15:59
+EventProcess
+1
+date : 9847a8cce0000000
+04-03 16:00
+unknown
+99
+date : 8b47a8cce0000000
+04-03 16:00
+Rise Error
+4
+date : ab47a8cce0000000
+04-03 16:00
+Err confirmed by user
+8
+date : 5c47a8cce0000000
+04-03 16:01
+unknown
+99
+date : fe47a8cce0000000
+04-03 16:01
+EventProcess
+1
+date : fe47a8cce0000000
+04-03 16:01
+Event with temperature logging
+6
+date : 1f47a8cce0000000
+04-03 16:01
+Event with temperature logging
+6
+date : 1f47a8cce0000000
+04-03 16:01
+Event with temperature logging
+6
+date : 4f47a8cce0000000
+04-03 16:01
+Event with temperature logging
+6
+date : 4f47a8cce0000000
+04-03 16:01
+EventProcess
+1
+date : 1057a8cce0000000
+04-03 16:02
+unknown
+99
+date : 0357a8cce0000000
+04-03 16:02
+Rise Oc Error
+2
+date : 2357a8cce0000000
+04-03 16:02
+Err confirmed by user
+8
+date : d357a8cce0000000
+04-03 16:03
+unknown
+99
+date : 9757a8cce0000000
+04-03 16:04
+unknown
+99
+date : 5b57a8cce0000000
+04-03 16:05
+unknown
+99
+date : 1f57a8cce0000000
+04-03 16:06
+unknown
+99
+date : d267a8cce0000000
+04-03 16:07
+unknown
+99
+date : 9667a8cce0000000
+04-03 16:08
+unknown
+99
+date : 5a67a8cce0000000
+04-03 16:09
+unknown
+99
+date : 2e67a8cce0000000
+04-03 16:10
+unknown
+99
+date : d177a8cce0000000
+04-03 16:11
+unknown
+99
+date : a577a8cce0000000
+04-03 16:12
+unknown
+99
+date : 6977a8cce0000000
+04-03 16:13
+unknown
+99
+date : 2d77a8cce0000000
+04-03 16:14
+unknown
+99
+date : e087a8cce0000000
+04-03 16:15
+unknown
+99
+date : a487a8cce0000000
+04-03 16:16
+unknown
+99
+date : 6887a8cce0000000
+04-03 16:17
+unknown
+99
+date : 2c87a8cce0000000
+04-03 16:18
+unknown
+99
+date : ef87a8cce0000000
+04-03 16:19
+unknown
+99
+date : a397a8cce0000000
+04-03 16:20
+unknown
+99
+date : 6797a8cce0000000
+04-03 16:21
+unknown
+99
+date : 2b97a8cce0000000
+04-03 16:22
+unknown
+99
+date : ee97a8cce0000000
+04-03 16:23
+unknown
+99
+date : a2a7a8cce0000000
+04-03 16:24
+unknown
+99
+date : 76a7a8cce0000000
+04-03 16:25
+unknown
+99
+date : 2aa7a8cce0000000
+04-03 16:26
+unknown
+99
+date : fda7a8cce0000000
+04-03 16:27
+unknown
+99
+date : b1b7a8cce0000000
+04-03 16:28
+unknown
+99
+date : 75b7a8cce0000000
+04-03 16:29
+unknown
+99
+date : 39b7a8cce0000000
+04-03 16:30
+unknown
+99
+date : fcb7a8cce0000000
+04-03 16:31
+unknown
+99
+date : b0c7a8cce0000000
+04-03 16:32
+unknown
+99
+date : 74c7a8cce0000000
+04-03 16:33
+unknown
+99
+date : 38c7a8cce0000000
+04-03 16:34
+unknown
+99
+date : fbc7a8cce0000000
+04-03 16:35
+unknown
+99
+date : bfc7a8cce0000000
+04-03 16:36
+unknown
+99
+date : 73d7a8cce0000000
+04-03 16:37
+unknown
+99
+date : 37d7a8cce0000000
+04-03 16:38
+unknown
+99
+date : fad7a8cce0000000
+04-03 16:39
+unknown
+99
+date : ced7a8cce0000000
+04-03 16:40
+unknown
+99
+date : 82e7a8cce0000000
+04-03 16:41
+unknown
+99
+date : 46e7a8cce0000000
+04-03 16:42
+unknown
+99
+date : 0ae7a8cce0000000
+04-03 16:43
+unknown
+99
+date : cde7a8cce0000000
+04-03 16:44
+unknown
+99
+date : 81f7a8cce0000000
+04-03 16:45
+unknown
+99
+date : 45f7a8cce0000000
+04-03 16:46
+unknown
+99
+date : 09f7a8cce0000000
+04-03 16:47
+unknown
+99
+date : ccf7a8cce0000000
+04-03 16:48
+unknown
+99
+date : 8008a8cce0000000
+04-03 16:49
+unknown
+99
+date : 4408a8cce0000000
+04-03 16:50
+unknown
+99
+date : 0808a8cce0000000
+04-03 16:51
+unknown
+99
+date : cb08a8cce0000000
+04-03 16:52
+unknown
+99
+date : 8f08a8cce0000000
+04-03 16:53
+unknown
+99
+date : 4318a8cce0000000
+04-03 16:54
+unknown
+99
+date : 1718a8cce0000000
+04-03 16:55
+unknown
+99
+date : da18a8cce0000000
+04-03 16:56
+unknown
+99
+date : 9e18a8cce0000000
+04-03 16:57
+unknown
+99
+date : 5228a8cce0000000
+04-03 16:58
+unknown
+99
+date : 1628a8cce0000000
+04-03 16:59
+unknown
+99
+date : d928a8cce0000000
+04-03 17:00
+unknown
+99
+date : 9d28a8cce0000000
+04-03 17:01
+unknown
+99
+date : 5138a8cce0000000
+04-03 17:02
+unknown
+99
+date : 1538a8cce0000000
+04-03 17:03
+unknown
+99
+date : d838a8cce0000000
+04-03 17:04
+unknown
+99
+date : 9c38a8cce0000000
+04-03 17:05
+unknown
+99
+date : 5048a8cce0000000
+04-03 17:06
+unknown
+99
+date : 1448a8cce0000000
+04-03 17:07
+unknown
+99
+date : d748a8cce0000000
+04-03 17:08
+unknown
+99
+date : 9b48a8cce0000000
+04-03 17:09
+unknown
+99
+date : 5f48a8cce0000000
+04-03 17:10
+unknown
+99
+date : 2358a8cce0000000
+04-03 17:11
+unknown
+99
+date : d658a8cce0000000
+04-03 17:12
+unknown
+99
+date : 9a58a8cce0000000
+04-03 17:13
+unknown
+99
+date : 6e58a8cce0000000
+04-03 17:14
+unknown
+99
+date : 2268a8cce0000000
+04-03 17:15
+unknown
+99
+date : e568a8cce0000000
+04-03 17:16
+unknown
+99
+date : a968a8cce0000000
+04-03 17:17
+unknown
+99
+date : 6d68a8cce0000000
+04-03 17:18
+unknown
+99
+date : 2178a8cce0000000
+04-03 17:19
+unknown
+99
+date : e478a8cce0000000
+04-03 17:20
+unknown
+99
+date : a878a8cce0000000
+04-03 17:21
+unknown
+99
+date : 6c78a8cce0000000
+04-03 17:22
+unknown
+99
+date : 2088a8cce0000000
+04-03 17:23
+unknown
+99
+date : e388a8cce0000000
+04-03 17:24
+unknown
+99
+date : a788a8cce0000000
+04-03 17:25
+unknown
+99
+date : 6b88a8cce0000000
+04-03 17:26
+unknown
+99
+date : 3f88a8cce0000000
+04-03 17:27
+unknown
+99
+date : e298a8cce0000000
+04-03 17:28
+unknown
+99
+date : b698a8cce0000000
+04-03 17:29
+unknown
+99
+date : 7a98a8cce0000000
+04-03 17:30
+unknown
+99
+date : 3e98a8cce0000000
+04-03 17:31
+unknown
+99
+date : f1a8a8cce0000000
+04-03 17:32
+unknown
+99
+date : b5a8a8cce0000000
+04-03 17:33
+unknown
+99
+date : 79a8a8cce0000000
+04-03 17:34
+unknown
+99
+date : 3da8a8cce0000000
+04-03 17:35
+unknown
+99
+date : f0b8a8cce0000000
+04-03 17:36
+unknown
+99
+date : b4b8a8cce0000000
+04-03 17:37
+unknown
+99
+date : 78b8a8cce0000000
+04-03 17:38
+unknown
+99
+date : 3cb8a8cce0000000
+04-03 17:39
+unknown
+99
+date : ffb8a8cce0000000
+04-03 17:40
+unknown
+99
+date : b3c8a8cce0000000
+04-03 17:41
+unknown
+99
+date : 77c8a8cce0000000
+04-03 17:42
+unknown
+99
+date : 3bc8a8cce0000000
+04-03 17:43
+unknown
+99
+date : fec8a8cce0000000
+04-03 17:44
+unknown
+99
+date : b2d8a8cce0000000
+04-03 17:45
+unknown
+99
+date : 86d8a8cce0000000
+04-03 17:46
+unknown
+99
+date : 4ad8a8cce0000000
+04-03 17:47
+unknown
+99
+date : 0ed8a8cce0000000
+04-03 17:48
+unknown
+99
+date : c1e8a8cce0000000
+04-03 17:49
+unknown
+99
+date : 85e8a8cce0000000
+04-03 17:50
+unknown
+99
+date : 49e8a8cce0000000
+04-03 17:51
+unknown
+99
+date : 0de8a8cce0000000
+04-03 17:52
+unknown
+99
+date : c0f8a8cce0000000
+04-03 17:53
+unknown
+99
+date : 84f8a8cce0000000
+04-03 17:54
+unknown
+99
+date : 48f8a8cce0000000
+04-03 17:55
+unknown
+99
+date : 0cf8a8cce0000000
+04-03 17:56
+unknown
+99
+date : cff8a8cce0000000
+04-03 17:57
+unknown
+99
+date : 8309a8cce0000000
+04-03 17:58
+unknown
+99
+date : 4709a8cce0000000
+04-03 17:59
+unknown
+99
+date : 0b09a8cce0000000
+04-03 18:00
+unknown
+99
+date : ce09a8cce0000000
+04-03 18:01
+unknown
+99
+date : 8219a8cce0000000
+04-03 18:02
+unknown
+99
+date : 5619a8cce0000000
+04-03 18:03
+unknown
+99
+date : 1a19a8cce0000000
+04-03 18:04
+unknown
+99
+date : dd19a8cce0000000
+04-03 18:05
+unknown
+99
+date : 9129a8cce0000000
+04-03 18:06
+unknown
+99
+date : 5529a8cce0000000
+04-03 18:07
+unknown
+99
+date : 1929a8cce0000000
+04-03 18:08
+unknown
+99
+date : dc29a8cce0000000
+04-03 18:09
+unknown
+99
+date : 9039a8cce0000000
+04-03 18:10
+unknown
+99
+date : 5439a8cce0000000
+04-03 18:11
+unknown
+99
+date : 1839a8cce0000000
+04-03 18:12
+unknown
+99
+date : db39a8cce0000000
+04-03 18:13
+unknown
+99
+date : 9f39a8cce0000000
+04-03 18:14
+unknown
+99
+date : 5349a8cce0000000
+04-03 18:15
+unknown
+99
+date : 1749a8cce0000000
+04-03 18:16
+unknown
+99
+date : ea49a8cce0000000
+04-03 18:17
+unknown
+99
+date : ae49a8cce0000000
+04-03 18:18
+unknown
+99
+date : 6259a8cce0000000
+04-03 18:19
+unknown
+99
+date : 2659a8cce0000000
+04-03 18:20
+unknown
+99
+date : e959a8cce0000000
+04-03 18:21
+unknown
+99
+date : ad59a8cce0000000
+04-03 18:22
+unknown
+99
+date : 6169a8cce0000000
+04-03 18:23
+unknown
+99
+date : 2569a8cce0000000
+04-03 18:24
+unknown
+99
+date : e869a8cce0000000
+04-03 18:25
+unknown
+99
+date : ac69a8cce0000000
+04-03 18:26
+unknown
+99
+date : 6079a8cce0000000
+04-03 18:27
+unknown
+99
+date : 2479a8cce0000000
+04-03 18:28
+unknown
+99
+date : e779a8cce0000000
+04-03 18:29
+unknown
+99
+date : ab79a8cce0000000
+04-03 18:30
+unknown
+99
+date : 7f79a8cce0000000
+04-03 18:31
+unknown
+99
+date : 3389a8cce0000000
+04-03 18:32
+unknown
+99
+date : f689a8cce0000000
+04-03 18:33
+unknown
+99
+date : ba89a8cce0000000
+04-03 18:34
+unknown
+99
+date : 7e89a8cce0000000
+04-03 18:35
+unknown
+99
+date : 3299a8cce0000000
+04-03 18:36
+unknown
+99
+date : f599a8cce0000000
+04-03 18:37
+unknown
+99
+date : b999a8cce0000000
+04-03 18:38
+unknown
+99
+date : 7d99a8cce0000000
+04-03 18:39
+unknown
+99
+date : 31a9a8cce0000000
+04-03 18:40
+unknown
+99
+date : f4a9a8cce0000000
+04-03 18:41
+unknown
+99
+date : b8a9a8cce0000000
+04-03 18:42
+unknown
+99
+date : 7ca9a8cce0000000
+04-03 18:43
+unknown
+99
+date : 40b9a8cce0000000
+04-03 18:44
+unknown
+99
+date : 04b9a8cce0000000
+04-03 18:45
+unknown
+99
+date : c7b9a8cce0000000
+04-03 18:46
+unknown
+99
+date : 8bb9a8cce0000000
+04-03 18:47
+unknown
+99
+date : 4fb9a8cce0000000
+04-03 18:48
+unknown
+99
+date : 03c9a8cce0000000
+04-03 18:49
+unknown
+99
+date : c6c9a8cce0000000
+04-03 18:50
+unknown
+99
+date : 8ac9a8cce0000000
+04-03 18:51
+unknown
+99
+date : 4ec9a8cce0000000
+04-03 18:52
+unknown
+99
+date : 02d9a8cce0000000
+04-03 18:53
+unknown
+99
+date : c5d9a8cce0000000
+04-03 18:54
+unknown
+99
+date : 89d9a8cce0000000
+04-03 18:55
+unknown
+99
+date : 4dd9a8cce0000000
+04-03 18:56
+unknown
+99
+date : 01e9a8cce0000000
+04-03 18:57
+unknown
+99
+date : c4e9a8cce0000000
+04-03 18:58
+unknown
+99
+date : 88e9a8cce0000000
+04-03 18:59
+unknown
+99
+date : 4ce9a8cce0000000
+04-03 19:00
+unknown
+99
+date : 00f9a8cce0000000
+04-03 19:01
+unknown
+99
+date : c3f9a8cce0000000
+04-03 19:02
+unknown
+99
+date : 87f9a8cce0000000
+04-03 19:03
+unknown
+99
+date : 4bf9a8cce0000000
+04-03 19:04
+unknown
+99
+date : 0ff9a8cce0000000
+04-03 19:05
+unknown
+99
+date : d20aa8cce0000000
+04-03 19:06
+unknown
+99
+date : 960aa8cce0000000
+04-03 19:07
+unknown
+99
+date : 5a0aa8cce0000000
+04-03 19:08
+unknown
+99
+date : 1e0aa8cce0000000
+04-03 19:09
+unknown
+99
+date : d11aa8cce0000000
+04-03 19:10
+unknown
+99
+date : 951aa8cce0000000
+04-03 19:11
+unknown
+99
+date : 591aa8cce0000000
+04-03 19:12
+unknown
+99
+date : 1d1aa8cce0000000
+04-03 19:13
+unknown
+99
+date : d02aa8cce0000000
+04-03 19:14
+unknown
+99
+date : 942aa8cce0000000
+04-03 19:15
+unknown
+99
+date : 582aa8cce0000000
+04-03 19:16
+unknown
+99
+date : 1c2aa8cce0000000
+04-03 19:17
+unknown
+99
+date : df2aa8cce0000000
+04-03 19:18
+unknown
+99
+date : 933aa8cce0000000
+04-03 19:19
+unknown
+99
+date : 573aa8cce0000000
+04-03 19:20
+unknown
+99
+date : 1b3aa8cce0000000
+04-03 19:21
+unknown
+99
+date : de3aa8cce0000000
+04-03 19:22
+unknown
+99
+date : 924aa8cce0000000
+04-03 19:23
+unknown
+99
+date : 564aa8cce0000000
+04-03 19:24
+unknown
+99
+date : 1a4aa8cce0000000
+04-03 19:25
+unknown
+99
+date : ed4aa8cce0000000
+04-03 19:26
+unknown
+99
+date : 915aa8cce0000000
+04-03 19:27
+unknown
+99
+date : 655aa8cce0000000
+04-03 19:28
+unknown
+99
+date : 295aa8cce0000000
+04-03 19:29
+unknown
+99
+date : ec5aa8cce0000000
+04-03 19:30
+unknown
+99
+date : a06aa8cce0000000
+04-03 19:31
+unknown
+99
+date : 646aa8cce0000000
+04-03 19:32
+unknown
+99
+date : 286aa8cce0000000
+04-03 19:33
+unknown
+99
+date : eb6aa8cce0000000
+04-03 19:34
+unknown
+99
+date : af6aa8cce0000000
+04-03 19:35
+unknown
+99
+date : 637aa8cce0000000
+04-03 19:36
+unknown
+99
+date : 277aa8cce0000000
+04-03 19:37
+unknown
+99
+date : ea7aa8cce0000000
+04-03 19:38
+unknown
+99
+date : ae7aa8cce0000000
+04-03 19:39
+unknown
+99
+date : 728aa8cce0000000
+04-03 19:40
+unknown
+99
+date : 368aa8cce0000000
+04-03 19:41
+unknown
+99
+date : f98aa8cce0000000
+04-03 19:42
+unknown
+99
+date : bd8aa8cce0000000
+04-03 19:43
+unknown
+99
+date : 719aa8cce0000000
+04-03 19:44
+unknown
+99
+date : 359aa8cce0000000
+04-03 19:45
+unknown
+99
+date : f89aa8cce0000000
+04-03 19:46
+unknown
+99
+date : bc9aa8cce0000000
+04-03 19:47
+unknown
+99
+date : 70aaa8cce0000000
+04-03 19:48
+unknown
+99
+date : 34aaa8cce0000000
+04-03 19:49
+unknown
+99
+date : f7aaa8cce0000000
+04-03 19:50
+unknown
+99
+date : bbaaa8cce0000000
+04-03 19:51
+unknown
+99
+date : 7faaa8cce0000000
+04-03 19:52
+unknown
+99
+date : 33baa8cce0000000
+04-03 19:53
+unknown
+99
+date : f6baa8cce0000000
+04-03 19:54
+unknown
+99
+date : cabaa8cce0000000
+04-03 19:55
+unknown
+99
+date : 8ebaa8cce0000000
+04-03 19:56
+unknown
+99
+date : 42caa8cce0000000
+04-03 19:57
+unknown
+99
+date : 06caa8cce0000000
+04-03 19:58
+unknown
+99
+date : c9caa8cce0000000
+04-03 19:59
+unknown
+99
+date : 7dcaa8cce0000000
+04-03 20:00
+unknown
+99
+date : 41daa8cce0000000
+04-03 20:01
+unknown
+99
+date : 05daa8cce0000000
+04-03 20:02
+unknown
+99
+date : c8daa8cce0000000
+04-03 20:03
+unknown
+99
+date : 8cdaa8cce0000000
+04-03 20:04
+unknown
+99
+date : 40eaa8cce0000000
+04-03 20:05
+unknown
+99
+date : 04eaa8cce0000000
+04-03 20:06
+unknown
+99
+date : c7eaa8cce0000000
+04-03 20:07
+unknown
+99
+date : 8beaa8cce0000000
+04-03 20:08
+unknown
+99
+date : 4feaa8cce0000000
+04-03 20:09
+unknown
+99
+date : 03faa8cce0000000
+04-03 20:10
+unknown
+99
+date : c6faa8cce0000000
+04-03 20:11
+unknown
+99
+date : 8afaa8cce0000000
+04-03 20:12
+unknown
+99
+date : 4efaa8cce0000000
+04-03 20:13
+unknown
+99
+date : 120ba8cce0000000
+04-03 20:14
+unknown
+99
+date : c50ba8cce0000000
+04-03 20:15
+unknown
+99
+date : 990ba8cce0000000
+04-03 20:16
+unknown
+99
+date : 5d0ba8cce0000000
+04-03 20:17
+unknown
+99
+date : 111ba8cce0000000
+04-03 20:18
+unknown
+99
+date : d41ba8cce0000000
+04-03 20:19
+unknown
+99
+date : 981ba8cce0000000
+04-03 20:20
+unknown
+99
+date : 5c1ba8cce0000000
+04-03 20:21
+unknown
+99
+date : 102ba8cce0000000
+04-03 20:22
+unknown
+99
+date : d32ba8cce0000000
+04-03 20:23
+unknown
+99
+date : 972ba8cce0000000
+04-03 20:24
+unknown
+99
+date : 5b2ba8cce0000000
+04-03 20:25
+unknown
+99
+date : 1f2ba8cce0000000
+04-03 20:26
+unknown
+99
+date : d23ba8cce0000000
+04-03 20:27
+unknown
+99
+date : a63ba8cce0000000
+04-03 20:28
+unknown
+99
+date : 5a3ba8cce0000000
+04-03 20:29
+unknown
+99
+date : 2e3ba8cce0000000
+04-03 20:30
+unknown
+99
+date : e14ba8cce0000000
+04-03 20:31
+unknown
+99
+date : a54ba8cce0000000
+04-03 20:32
+unknown
+99
+date : 694ba8cce0000000
+04-03 20:33
+unknown
+99
+date : 2d4ba8cce0000000
+04-03 20:34
+unknown
+99
+date : e05ba8cce0000000
+04-03 20:35
+unknown
+99
+date : a45ba8cce0000000
+04-03 20:36
+unknown
+99
+date : 685ba8cce0000000
+04-03 20:37
+unknown
+99
+date : 2c5ba8cce0000000
+04-03 20:38
+unknown
+99
+date : ef5ba8cce0000000
+04-03 20:39
+unknown
+99
+date : a36ba8cce0000000
+04-03 20:40
+unknown
+99
+date : 676ba8cce0000000
+04-03 20:41
+unknown
+99
+date : 2b6ba8cce0000000
+04-03 20:42
+unknown
+99
+date : ee6ba8cce0000000
+04-03 20:43
+unknown
+99
+date : b27ba8cce0000000
+04-03 20:44
+unknown
+99
+date : 667ba8cce0000000
+04-03 20:45
+unknown
+99
+date : 2a7ba8cce0000000
+04-03 20:46
+unknown
+99
+date : fd7ba8cce0000000
+04-03 20:47
+unknown
+99
+date : b18ba8cce0000000
+04-03 20:48
+unknown
+99
+date : 758ba8cce0000000
+04-03 20:49
+unknown
+99
+date : 398ba8cce0000000
+04-03 20:50
+unknown
+99
+date : fc8ba8cce0000000
+04-03 20:51
+unknown
+99
+date : b09ba8cce0000000
+04-03 20:52
+unknown
+99
+date : 749ba8cce0000000
+04-03 20:53
+unknown
+99
+date : 389ba8cce0000000
+04-03 20:54
+unknown
+99
+date : fb9ba8cce0000000
+04-03 20:55
+unknown
+99
+date : bf9ba8cce0000000
+04-03 20:56
+unknown
+99
+date : 73aba8cce0000000
+04-03 20:57
+unknown
+99
+date : 37aba8cce0000000
+04-03 20:58
+unknown
+99
+date : faaba8cce0000000
+04-03 20:59
+unknown
+99
+date : beaba8cce0000000
+04-03 21:00
+unknown
+99
+date : 72bba8cce0000000
+04-03 21:01
+unknown
+99
+date : 36bba8cce0000000
+04-03 21:02
+unknown
+99
+date : f9bba8cce0000000
+04-03 21:03
+unknown
+99
+date : bdbba8cce0000000
+04-03 21:04
+unknown
+99
+date : 81cba8cce0000000
+04-03 21:05
+unknown
+99
+date : 35cba8cce0000000
+04-03 21:06
+unknown
+99
+date : f8cba8cce0000000
+04-03 21:07
+unknown
+99
+date : cccba8cce0000000
+04-03 21:08
+unknown
+99
+date : 80dba8cce0000000
+04-03 21:09
+unknown
+99
+date : 44dba8cce0000000
+04-03 21:10
+unknown
+99
+date : 08dba8cce0000000
+04-03 21:11
+unknown
+99
+date : cbdba8cce0000000
+04-03 21:12
+unknown
+99
+date : 8fdba8cce0000000
+04-03 21:13
+unknown
+99
+date : 43eba8cce0000000
+04-03 21:14
+unknown
+99
+date : 07eba8cce0000000
+04-03 21:15
+unknown
+99
+date : caeba8cce0000000
+04-03 21:16
+unknown
+99
+date : 8eeba8cce0000000
+04-03 21:17
+unknown
+99
+date : 42fba8cce0000000
+04-03 21:18
+unknown
+99
+date : 06fba8cce0000000
+04-03 21:19
+unknown
+99
+date : c9fba8cce0000000
+04-03 21:20
+unknown
+99
+date : 8dfba8cce0000000
+04-03 21:21
+unknown
+99
+date : 410ca8cce0000000
+04-03 21:22
+unknown
+99
+date : 150ca8cce0000000
+04-03 21:23
+unknown
+99
+date : d80ca8cce0000000
+04-03 21:24
+unknown
+99
+date : 8c0ca8cce0000000
+04-03 21:25
+unknown
+99
+date : 501ca8cce0000000
+04-03 21:26
+unknown
+99
+date : 141ca8cce0000000
+04-03 21:27
+unknown
+99
+date : d71ca8cce0000000
+04-03 21:28
+unknown
+99
+date : 9b1ca8cce0000000
+04-03 21:29
+unknown
+99
+date : 5f1ca8cce0000000
+04-03 21:30
+unknown
+99
+date : 132ca8cce0000000
+04-03 21:31
+unknown
+99
+date : d62ca8cce0000000
+04-03 21:32
+unknown
+99
+date : 9a2ca8cce0000000
+04-03 21:33
+unknown
+99
+date : 5e2ca8cce0000000
+04-03 21:34
+unknown
+99
+date : 123ca8cce0000000
+04-03 21:35
+unknown
+99
+date : d53ca8cce0000000
+04-03 21:36
+unknown
+99
+date : 993ca8cce0000000
+04-03 21:37
+unknown
+99
+date : 6d3ca8cce0000000
+04-03 21:38
+unknown
+99
+date : 114ca8cce0000000
+04-03 21:39
+unknown
+99
+date : d44ca8cce0000000
+04-03 21:40
+unknown
+99
+date : 984ca8cce0000000
+04-03 21:41
+unknown
+99
+date : 6c4ca8cce0000000
+04-03 21:42
+unknown
+99
+date : 205ca8cce0000000
+04-03 21:43
+unknown
+99
+date : e35ca8cce0000000
+04-03 21:44
+unknown
+99
+date : a75ca8cce0000000
+04-03 21:45
+unknown
+99
+date : 6b5ca8cce0000000
+04-03 21:46
+unknown
+99
+date : 2f5ca8cce0000000
+04-03 21:47
+unknown
+99
+date : e26ca8cce0000000
+04-03 21:48
+unknown
+99
+date : a66ca8cce0000000
+04-03 21:49
+unknown
+99
+date : 6a6ca8cce0000000
+04-03 21:50
+unknown
+99
+date : 2e6ca8cce0000000
+04-03 21:51
+unknown
+99
+date : e17ca8cce0000000
+04-03 21:52
+unknown
+99
+date : a57ca8cce0000000
+04-03 21:53
+unknown
+99
+date : 697ca8cce0000000
+04-03 21:54
+unknown
+99
+date : 2d7ca8cce0000000
+04-03 21:55
+unknown
+99
+date : f08ca8cce0000000
+04-03 21:56
+unknown
+99
+date : b48ca8cce0000000
+04-03 21:57
+unknown
+99
+date : 788ca8cce0000000
+04-03 21:58
+unknown
+99
+date : 3c8ca8cce0000000
+04-03 21:59
+unknown
+99
+date : ff8ca8cce0000000
+04-03 22:00
+unknown
+99
+date : b39ca8cce0000000
+04-03 22:01
+unknown
+99
+date : 779ca8cce0000000
+04-03 22:02
+unknown
+99
+date : 3b9ca8cce0000000
+04-03 22:03
+unknown
+99
+date : fe9ca8cce0000000
+04-03 22:04
+unknown
+99
+date : b2aca8cce0000000
+04-03 22:05
+unknown
+99
+date : 76aca8cce0000000
+04-03 22:06
+unknown
+99
+date : 3aaca8cce0000000
+04-03 22:07
+unknown
+99
+date : fdaca8cce0000000
+04-03 22:08
+unknown
+99
+date : b1bca8cce0000000
+04-03 22:09
+unknown
+99
+date : 75bca8cce0000000
+04-03 22:10
+unknown
+99
+date : 39bca8cce0000000
+04-03 22:11
+unknown
+99
+date : fcbca8cce0000000
+04-03 22:12
+unknown
+99
+date : c0cca8cce0000000
+04-03 22:13
+unknown
+99
+date : 84cca8cce0000000
+04-03 22:14
+unknown
+99
+date : 48cca8cce0000000
+04-03 22:15
+unknown
+99
+date : 0ccca8cce0000000
+04-03 22:16
+unknown
+99
+date : cfcca8cce0000000
+04-03 22:17
+unknown
+99
+date : 83dca8cce0000000
+04-03 22:18
+unknown
+99
+date : 47dca8cce0000000
+04-03 22:19
+unknown
+99
+date : 0bdca8cce0000000
+04-03 22:20
+unknown
+99
+date : cedca8cce0000000
+04-03 22:21
+unknown
+99
+date : 82eca8cce0000000
+04-03 22:22
+unknown
+99
+date : 46eca8cce0000000
+04-03 22:23
+unknown
+99
+date : 0aeca8cce0000000
+04-03 22:24
+unknown
+99
+date : cdeca8cce0000000
+04-03 22:25
+unknown
+99
+date : 81fca8cce0000000
+04-03 22:26
+unknown
+99
+date : 45fca8cce0000000
+04-03 22:27
+unknown
+99
+date : 09fca8cce0000000
+04-03 22:28
+unknown
+99
+date : dcfca8cce0000000
+04-03 22:29
+unknown
+99
+date : 800da8cce0000000
+04-03 22:30
+unknown
+99
+date : 440da8cce0000000
+04-03 22:31
+unknown
+99
+date : 180da8cce0000000
+04-03 22:32
+unknown
+99
+date : db0da8cce0000000
+04-03 22:33
+unknown
+99
+date : 9f0da8cce0000000
+04-03 22:34
+unknown
+99
+date : 531da8cce0000000
+04-03 22:35
+unknown
+99
+date : 171da8cce0000000
+04-03 22:36
+unknown
+99
+date : da1da8cce0000000
+04-03 22:37
+unknown
+99
+date : 9e1da8cce0000000
+04-03 22:38
+unknown
+99
+date : 522da8cce0000000
+04-03 22:39
+unknown
+99
+date : 162da8cce0000000
+04-03 22:40
+unknown
+99
+date : d92da8cce0000000
+04-03 22:41
+unknown
+99
+date : 9d2da8cce0000000
+04-03 22:42
+unknown
+99
+date : 513da8cce0000000
+04-03 22:43
+unknown
+99
+date : 153da8cce0000000
+04-03 22:44
+unknown
+99
+date : d83da8cce0000000
+04-03 22:45
+unknown
+99
+date : 9c3da8cce0000000
+04-03 22:46
+unknown
+99
+date : 504da8cce0000000
+04-03 22:47
+unknown
+99
+date : 144da8cce0000000
+04-03 22:48
+unknown
+99
+date : d74da8cce0000000
+04-03 22:49
+unknown
+99
+date : 9b4da8cce0000000
+04-03 22:50
+unknown
+99
+date : 5f4da8cce0000000
+04-03 22:51
+unknown
+99
+date : 135da8cce0000000
+04-03 22:52
+unknown
+99
+date : d65da8cce0000000
+04-03 22:53
+unknown
+99
+date : aa5da8cce0000000
+04-03 22:54
+unknown
+99
+date : 6e5da8cce0000000
+04-03 22:55
+unknown
+99
+date : 226da8cce0000000
+04-03 22:56
+unknown
+99
+date : e56da8cce0000000
+04-03 22:57
+unknown
+99
+date : a96da8cce0000000
+04-03 22:58
+unknown
+99
+date : 6d6da8cce0000000
+04-03 22:59
+unknown
+99
+date : 217da8cce0000000
+04-03 23:00
+unknown
+99
+date : e47da8cce0000000
+04-03 23:01
+unknown
+99
+date : a87da8cce0000000
+04-03 23:02
+unknown
+99
+date : 6c7da8cce0000000
+04-03 23:03
+unknown
+99
+date : 208da8cce0000000
+04-03 23:04
+unknown
+99
+date : e38da8cce0000000
+04-03 23:05
+unknown
+99
+date : a78da8cce0000000
+04-03 23:06
+unknown
+99
+date : 6b8da8cce0000000
+04-03 23:07
+unknown
+99
+date : 2f8da8cce0000000
+04-03 23:08
+unknown
+99
+date : f29da8cce0000000
+04-03 23:09
+unknown
+99
+date : b69da8cce0000000
+04-03 23:10
+unknown
+99
+date : 7a9da8cce0000000
+04-03 23:11
+unknown
+99
+date : 3e9da8cce0000000
+04-03 23:12
+unknown
+99
+date : f1ada8cce0000000
+04-03 23:13
+unknown
+99
+date : b5ada8cce0000000
+04-03 23:14
+unknown
+99
+date : 79ada8cce0000000
+04-03 23:15
+unknown
+99
+date : 3dada8cce0000000
+04-03 23:16
+unknown
+99
+date : f0bda8cce0000000
+04-03 23:17
+unknown
+99
+date : b4bda8cce0000000
+04-03 23:18
+unknown
+99
+date : 78bda8cce0000000
+04-03 23:19
+unknown
+99
+date : 3cbda8cce0000000
+04-03 23:20
+unknown
+99
+date : ffbda8cce0000000
+04-03 23:21
+unknown
+99
+date : b3cda8cce0000000
+04-03 23:22
+unknown
+99
+date : 77cda8cce0000000
+04-03 23:23
+unknown
+99
+date : 3bcda8cce0000000
+04-03 23:24
+unknown
+99
+date : 0fcda8cce0000000
+04-03 23:25
+unknown
+99
+date : c2dda8cce0000000
+04-03 23:26
+unknown
+99
+date : 86dda8cce0000000
+04-03 23:27
+unknown
+99
+date : 4adda8cce0000000
+04-03 23:28
+unknown
+99
+date : 0edda8cce0000000
+04-03 23:29
+unknown
+99
+date : c1eda8cce0000000
+04-03 23:30
+unknown
+99
+date : 85eda8cce0000000
+04-03 23:31
+unknown
+99
+date : 49eda8cce0000000
+04-03 23:32
+unknown
+99
+date : 0deda8cce0000000
+04-03 23:33
+unknown
+99
+date : c0fda8cce0000000
+04-03 23:34
+unknown
+99
+date : 84fda8cce0000000
+04-03 23:35
+unknown
+99
+date : 48fda8cce0000000
+04-03 23:36
+unknown
+99
+date : 0cfda8cce0000000
+04-03 23:37
+unknown
+99
+date : cffda8cce0000000
+04-03 23:38
+unknown
+99
+date : 830ea8cce0000000
+04-03 23:39
+unknown
+99
+date : 470ea8cce0000000
+04-03 23:40
+unknown
+99
+date : 1b0ea8cce0000000
+04-03 23:41
+unknown
+99
+date : ce0ea8cce0000000
+04-03 23:42
+unknown
+99
+date : 921ea8cce0000000
+04-03 23:43
+unknown
+99
+date : 561ea8cce0000000
+04-03 23:44
+unknown
+99
+date : 1a1ea8cce0000000
+04-03 23:45
+unknown
+99
+date : dd1ea8cce0000000
+04-03 23:46
+unknown
+99
+date : 912ea8cce0000000
+04-03 23:47
+unknown
+99
+date : 552ea8cce0000000
+04-03 23:48
+unknown
+99
+date : 192ea8cce0000000
+04-03 23:49
+unknown
+99
+date : dc2ea8cce0000000
+04-03 23:50
+unknown
+99
+date : 903ea8cce0000000
+04-03 23:51
+unknown
+99
+date : 543ea8cce0000000
+04-03 23:52
+unknown
+99
+date : 183ea8cce0000000
+04-03 23:53
+unknown
+99
+date : db3ea8cce0000000
+04-03 23:54
+unknown
+99
+date : 9f3ea8cce0000000
+04-03 23:55
+unknown
+99
+date : 534ea8cce0000000
+04-03 23:56
+unknown
+99
+date : 174ea8cce0000000
+04-03 23:57
+unknown
+99
